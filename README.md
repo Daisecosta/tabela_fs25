@@ -22,7 +22,7 @@ git status
 ### 4. preparar para subir alterações
 
 ```bash
-git -m "mensagem"
+git commit -m "mensagem"
 ```
 
 ### 5. verificar o status do commit
